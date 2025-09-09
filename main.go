@@ -17,6 +17,8 @@ func main() {
 		Soal1()
 	case "soal2":
 		Soal2()
+	case "soal4":
+		Soal4()
 	default:
 		fmt.Println("function not found")
 	}
