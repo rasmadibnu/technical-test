@@ -15,6 +15,8 @@ func main() {
 	switch args[0] {
 	case "soal1":
 		Soal1()
+	case "soal2":
+		Soal2()
 	default:
 		fmt.Println("function not found")
 	}
